@@ -1,4 +1,3 @@
-```md
 # Webify Assets
 
 Centralized static assets (logos, images, branding files) served globally via **jsDelivr CDN**.
@@ -103,25 +102,31 @@ Common cache-busting strategies:
   alt="Workflow Diagram"
   width="400"
 />
-CDN Image via jsDelivr (Branch-based)
-html
-Copy code
+```
+
+### CDN Image via jsDelivr (Branch-based)
+
+```html
 <img
   src="https://cdn.jsdelivr.net/gh/webify-io/webify-assets@main/branding/walmart.svg"
   alt="Logo"
   class="h-6 w-auto max-w-xs"
 />
-CDN Image via jsDelivr (Versioned)
-html
-Copy code
+```
+
+### CDN Image via jsDelivr (Versioned)
+
+```html
 <img
   src="https://cdn.jsdelivr.net/gh/webify-io/webify-assets@v1.0.0/branding/walmart.svg"
   alt="Logo"
   class="h-6 w-auto max-w-xs"
 />
-CDN Image with Cache Busting
-html
-Copy code
+```
+
+### CDN Image with Cache Busting
+
+```html
 <img
   src="https://cdn.jsdelivr.net/gh/webify-io/webify-assets@main/branding/walmart.svg?v=20251228"
   alt="Logo"
