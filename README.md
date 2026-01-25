@@ -14,7 +14,7 @@ jsDelivr allows you to serve files directly from a GitHub repository with global
 
 ```
 
-https://cdn.jsdelivr.net/gh/](https://cdn.jsdelivr.net/gh/)<owner>/<repo>@<ref>/<path>
+https://cdn.jsdelivr.net/gh/<owner>/<repo>@<ref>/<path>
 
 ```
 
@@ -181,7 +181,7 @@ backgrounds/
 - Avoid including copyrighted material unless you have permission.
 
 ## 📜 License
-All images in this repository are licensed under [Webify Licence Agreements] unless otherwise stated.
+All images in this repository are licensed under [Webify License Agreements] unless otherwise stated.
 Please check individual folders or files for specific licensing notes.
 
 ## 🙌 Acknowledgements
