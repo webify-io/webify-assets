@@ -192,5 +192,3 @@ If you use these images, consider giving credit or linking back to this reposito
 
 Happy shipping 🚢
 
-```
-
