@@ -14,7 +14,7 @@ jsDelivr allows you to serve files directly from a GitHub repository with global
 
 ```
 
-[https://cdn.jsdelivr.net/gh/](https://cdn.jsdelivr.net/gh/)<owner>/<repo>@<ref>/<path>
+https://cdn.jsdelivr.net/gh/](https://cdn.jsdelivr.net/gh/)<owner>/<repo>@<ref>/<path>
 
 ```
 
@@ -34,7 +34,7 @@ Use a branch (commonly `main`) when you want assets to update automatically as f
 
 ```
 
-[https://cdn.jsdelivr.net/gh/webify-io/webify-assets@main/branding/img.svg](https://cdn.jsdelivr.net/gh/webify-io/webify-assets@main/branding/img.svg)
+https://cdn.jsdelivr.net/gh/webify-io/webify-assets@main/branding/img.svg
 
 ```
 
@@ -54,7 +54,7 @@ Use a **Git tag or release** for stable and predictable assets.
 
 ```
 
-[https://cdn.jsdelivr.net/gh/webify-io/webify-assets@v1.0.0/branding/img.svg](https://cdn.jsdelivr.net/gh/webify-io/webify-assets@v1.0.0/branding/img.svg)
+https://cdn.jsdelivr.net/gh/webify-io/webify-assets@v1.0.0/branding/img.svg
 
 ```
 
@@ -75,7 +75,7 @@ If a file changes but keeps the same name, append a **query string** to force a 
 
 ```
 
-[https://cdn.jsdelivr.net/gh/webify-io/webify-assets@main/branding/img-2.svg?v=20251228](https://cdn.jsdelivr.net/gh/webify-io/webify-assets@main/branding/img-2.svg?v=20251228)
+https://cdn.jsdelivr.net/gh/webify-io/webify-assets@main/branding/img-2.svg?v=20251228
 
 ````
 
