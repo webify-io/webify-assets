@@ -1,8 +1,16 @@
-# Webify Assets
+# Webify Assets → CDN (images, mockups, GIFs)
 
 Centralized static assets (logos, images, branding files) served globally via **jsDelivr CDN**.
 
 This repository is designed to act as a fast, reliable asset host for websites and applications using GitHub + jsDelivr.
+
+### Purpose:
+
+- Images
+- Mockups
+- GIF previews
+- Logos
+- Anything publicly embeddable via raw URLs
 
 ---
 
